@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXTINF:1,
+http://90490-own.cloud-ott.me:80/play/live.php?mac=00:1A:79:00:04:65&stream=425666&extension=ts
