@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXTINF:1,
+http://newlife3.wanicelife.com:8880/live/ArnoLieuwALen/XJ8JfGHACh/59217.ts
